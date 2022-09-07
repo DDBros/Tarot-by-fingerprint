@@ -1,1 +1,0 @@
-# Tarot-by-fingerprint
